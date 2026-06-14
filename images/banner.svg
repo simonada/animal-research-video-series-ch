@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <defs>
+    <style>
+      .bg{fill:#351229}
+      .berry{fill:#BF0D3E}
+      .v1{fill:#FBC6D4}
+      .v2{fill:#F78CAA}
+      .v3{fill:#F3537F}
+      .title{font-family: 'Helvetica Neue', Arial, sans-serif; font-weight:700}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="520" rx="8"/>
+  <text x="90" y="220" font-size="120" class="title berry">WISSEN</text>
+  <text x="90" y="350" font-size="120" class="title v3">TIER</text>
+  <text x="90" y="470" font-size="80" class="title v2">VERSUCHE</text>
+  <!-- simple illustrative figures as circles/rects to suggest the two characters -->
+  <g transform="translate(850,60)">
+    <rect x="0" y="120" width="40" height="170" rx="10" fill="#f7e9f3" opacity="0.9"/>
+    <circle cx="20" cy="70" r="48" fill="#f7e9f3" opacity="0.9"/>
+  </g>
+  <g transform="translate(730,60)">
+    <rect x="0" y="120" width="40" height="170" rx="10" fill="#f7e9f3" opacity="0.9"/>
+    <circle cx="20" cy="70" r="48" fill="#f7e9f3" opacity="0.9"/>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+---
+title: "Willkommen zur Videoserie «Forschung mit Tieren in der Schweiz»"
+---
+
+Wissenschaft und Forschung sollten nicht nur innerhalb der akademischen Gemeinschaft diskutiert werden, sondern auch für die Gesellschaft verständlich, transparent und zugänglich sein.
+
+Wir laden Sie ein, die Videos anzuschauen und mehr über Forschung mit Tieren zu erfahren. Vielleicht wird dabei auch eine Frage beantwortet, die Sie selbst schon beschäftigt hat.
+
+::: {.site-hero}
+![](images/main_pic.png){class="hero-banner" aria-hidden="true"}
+:::
+
+::: {.info-grid}
+::: {.info-box}
+**Videos — Status**
+
+Coming soon — die Interviews und Videos werden demnächst veröffentlicht. Schauen Sie später wieder vorbei.
+:::
+
+::: {.info-box}
+**Ziel der Serie**
+
+Die Serie erklärt zentrale Fragen aus der Bevölkerung zu Tierversuchen — verständlich und wissenschaftlich fundiert.
+:::
+
+::: {.info-box}
+**Fragenbasis**
+
+Über 400 Fragen von Schweizerinnen und Schweizern, mit besonderem Fokus auf Jugendliche, bildeten die Grundlage.
+:::
+
+::: {.info-box}
+**Wer wir sind**
+Tosca Dalessi und Simona Doneva haben das Projekt während ihrer Promotionen an der Universität Zürich initiiert.
+
+:::
+
+::: {.info-box}
+**Unterstützung**
+
+Gefördert und begleitet vom Prorektorat Forschung, der Abteilung 3R & Tierwohl, UZH-Kommunikation und Life Science Zurich.
+:::
+
+::: {.info-box}
+**Kontakt & Mitmachen**
+
+Haben Sie Fragen oder Anmerkungen? Schreiben Sie uns via E-Mail (siehe Über uns).
+:::
+:::
+
+Weitere Informationen und die vollständige Videoliste finden Sie unter **Videos** und **Über uns**.
+
+## Themenübersicht
+
+Die Videoserie ist in fünf Themen gegliedert — klicken Sie auf ein Thema für Details:
+
+- [Animal research – simply explained](topics/01-explained.qmd) — Wie werden Tierversuche durchgeführt und warum?
+- [Animal research – what it means for the animals](topics/02-wellbeing.qmd) — Wie wird das Wohl der Tiere überwacht?
+- [Animal research – researchers’ view on it](topics/03-researchers-view.qmd) — Persönliche Perspektiven von Forschenden.
+- [Animal research – why it concerns us all](topics/04-ethical.qmd) — Ethische Fragestellungen.
+- [Animal research – and its alternatives](topics/05-alternatives.qmd) — Verfügbare Alternativen zu Tierversuchen.

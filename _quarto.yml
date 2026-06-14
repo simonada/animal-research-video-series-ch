@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Forschung mit Tieren in der Schweiz"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Videos"
+        href: topics/index.qmd
+      - text: "Über uns"
+        href: about.qmd
+      - text: "Über das Projekt"
+        href: about-project.qmd
+    #right:
+     # - text: "DE"
+      #  href: index.qmd
+      #- text: "EN"
+       # href: en/index.qmd
+
+format:
+  html:
+    css: styles.css

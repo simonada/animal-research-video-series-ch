@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "topics/05-alternatives.html",
+    "href": "topics/05-alternatives.html",
+    "title": "Tierversuche – Alternativen",
+    "section": "",
+    "text": "Welche Alternativen zu Tierversuchen gibt es? Hier werden in-vitro-Methoden, Computersimulationen und andere Ansätze vorgestellt.\nStatus: Coming soon"
+  },
+  {
+    "objectID": "topics/03-researchers-view.html",
+    "href": "topics/03-researchers-view.html",
+    "title": "Tierversuche – wie Forschende darüber denken",
+    "section": "",
+    "text": "Wie erleben Forschende die Arbeit mit Tieren? Persönliche Perspektiven, Motivation und Verantwortungsgefühl stehen im Mittelpunkt dieser Themenseite.\nStatus: Coming soon"
+  },
+  {
+    "objectID": "topics/04-ethical.html",
+    "href": "topics/04-ethical.html",
+    "title": "Animal research – why it concerns us all",
+    "section": "",
+    "text": "Ethische Fragestellungen rund um Tierversuche: Abwägungen, gesellschaftliche Verantwortung und Debatten.\nStatus: Coming soon"
+  },
+  {
+    "objectID": "topics/04-ethical.html#animal-research-why-it-concerns-us-all",
+    "href": "topics/04-ethical.html#animal-research-why-it-concerns-us-all",
+    "title": "Animal research – why it concerns us all",
+    "section": "",
+    "text": "Ethische Fragestellungen rund um Tierversuche: Abwägungen, gesellschaftliche Verantwortung und Debatten.\nStatus: Coming soon"
+  },
+  {
+    "objectID": "en/about-project.html",
+    "href": "en/about-project.html",
+    "title": "About the Project",
+    "section": "",
+    "text": "Science and research should not only be discussed within the academic community but should also be understandable, transparent, and accessible to society as a whole.\nEspecially when it comes to research involving animals, an open and evidence-based dialogue is essential. Through this video series, we aim to address key questions raised by the public and provide researchers with a platform to explain their work in an accessible way."
+  },
+  {
+    "objectID": "en/about-project.html#why-this-project",
+    "href": "en/about-project.html#why-this-project",
+    "title": "About the Project",
+    "section": "",
+    "text": "Science and research should not only be discussed within the academic community but should also be understandable, transparent, and accessible to society as a whole.\nEspecially when it comes to research involving animals, an open and evidence-based dialogue is essential. Through this video series, we aim to address key questions raised by the public and provide researchers with a platform to explain their work in an accessible way."
+  },
+  {
+    "objectID": "en/about-project.html#the-idea",
+    "href": "en/about-project.html#the-idea",
+    "title": "About the Project",
+    "section": "The idea",
+    "text": "The idea\nThe video series grew out of our interest in science communication and our desire to strengthen the exchange between research and society.\nIn the videos, researchers and experts answer questions about animal research in Switzerland in a way that is understandable, transparent, and scientifically grounded."
+  },
+  {
+    "objectID": "en/about-project.html#public-involvement",
+    "href": "en/about-project.html#public-involvement",
+    "title": "About the Project",
+    "section": "Public involvement",
+    "text": "Public involvement\nA central component of the project was the involvement of the Swiss public, particularly young people and school students.\nThrough a survey, participants were invited to share their questions and thoughts about animal research. In total, more than 400 questions and comments were submitted."
+  },
+  {
+    "objectID": "en/about-project.html#from-questions-to-topics",
+    "href": "en/about-project.html#from-questions-to-topics",
+    "title": "About the Project",
+    "section": "From questions to topics",
+    "text": "From questions to topics\nThe submitted questions were analysed anonymously using modern text analysis methods. By applying word embeddings, we were able to automatically group semantically similar questions and identify key themes.\nThis analysis formed the basis of the main topics covered in the video series, including:\n\nThe purpose and benefits of animal research\nAnimal welfare\nEthical considerations\nLegal regulations\nResearchers’ perspectives\nAlternatives to animal experimentation"
+  },
+  {
+    "objectID": "en/about-project.html#interviews",
+    "href": "en/about-project.html#interviews",
+    "title": "About the Project",
+    "section": "Interviews",
+    "text": "Interviews\nBased on the most frequently asked and representative questions, we conducted interviews with around a dozen early-career researchers as well as other experts from the University of Zurich and other Swiss universities.\nTheir answers form the foundation of the videos."
+  },
+  {
+    "objectID": "en/about-project.html#our-goal",
+    "href": "en/about-project.html#our-goal",
+    "title": "About the Project",
+    "section": "Our goal",
+    "text": "Our goal\nWe aim to contribute to an open, informed, and respectful dialogue about animal research. Through this video series, we hope to provide context, answer questions, and present a range of perspectives on the topic."
+  },
+  {
+    "objectID": "en/index.html",
+    "href": "en/index.html",
+    "title": "Welcome to the Video Series “Research with Animals in Switzerland”",
+    "section": "",
+    "text": "Science and research should not only be discussed within the academic community but should also be understandable, transparent, and accessible to society as a whole.\nWe invite you to explore our videos and learn more about animal research in Switzerland. You may even find an answer to a question you have wondered about yourself.\nFurther information and the complete list of videos can be found under Videos and About Us."
+  },
+  {
+    "objectID": "en/index.html#overview-of-topics",
+    "href": "en/index.html#overview-of-topics",
+    "title": "Welcome to the Video Series “Research with Animals in Switzerland”",
+    "section": "Overview of Topics",
+    "text": "Overview of Topics\nThe video series is organised into five thematic areas — click on a topic to learn more:\n\nAnimal research – simply explained — How and why is animal research conducted?\nAnimal research – what it means for the animals — How is animal welfare monitored and protected?\nAnimal research – researchers’ view on it — Personal perspectives from researchers.\nAnimal research – why it concerns us all — Ethical questions and societal considerations.\nAnimal research – and its alternatives — Available alternatives to animal experimentation."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Über uns",
+    "section": "",
+    "text": "Wir sind Simona Doneva und Tosca Dalessi. Während unserer Promotionen an der Universität Zürich beschäftigten wir uns intensiv mit den Themen Forschung mit Tieren, Wissenschaftskommunikation und dem Dialog zwischen Wissenschaft und Gesellschaft.\nAus diesem Interesse heraus entstand die Idee für die Videoserie «Forschung mit Tieren in der Schweiz». Unser Ziel ist es, wissenschaftliche Informationen verständlich aufzubereiten und Fragen aus der Bevölkerung direkt von Forschenden beantworten zu lassen."
+  },
+  {
+    "objectID": "about.html#projektleitung",
+    "href": "about.html#projektleitung",
+    "title": "Über uns",
+    "section": "Projektleitung",
+    "text": "Projektleitung\n\nDr. Simona Doneva\nDr. Tosca Dalessi"
+  },
+  {
+    "objectID": "about.html#unterstützende-stellen",
+    "href": "about.html#unterstützende-stellen",
+    "title": "Über uns",
+    "section": "Unterstützende Stellen",
+    "text": "Unterstützende Stellen\nDieses Projekt wurde unterstützt und begleitet durch:\n\nProrektorat Forschung (Universität Zürich)\nAbteilung 3R & Tierwohl (Universität Zürich)\nUZH-Kommunikation\nLife Science Zurich"
+  },
+  {
+    "objectID": "about.html#kontakt",
+    "href": "about.html#kontakt",
+    "title": "Über uns",
+    "section": "Kontakt",
+    "text": "Kontakt\nBei Fragen oder Anregungen freuen wir uns über Ihre Kontaktaufnahme.\nKontakt: E-Mail anzeigen"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Willkommen zur Videoserie «Forschung mit Tieren in der Schweiz»",
+    "section": "",
+    "text": "Wissenschaft und Forschung sollten nicht nur innerhalb der akademischen Gemeinschaft diskutiert werden, sondern auch für die Gesellschaft verständlich, transparent und zugänglich sein.\nWir laden Sie ein, die Videos anzuschauen und mehr über Forschung mit Tieren zu erfahren. Vielleicht wird dabei auch eine Frage beantwortet, die Sie selbst schon beschäftigt hat.\nWeitere Informationen und die vollständige Videoliste finden Sie unter Videos und Über uns."
+  },
+  {
+    "objectID": "index.html#themenübersicht",
+    "href": "index.html#themenübersicht",
+    "title": "Willkommen zur Videoserie «Forschung mit Tieren in der Schweiz»",
+    "section": "Themenübersicht",
+    "text": "Themenübersicht\nDie Videoserie ist in fünf Themen gegliedert — klicken Sie auf ein Thema für Details:\n\nAnimal research – simply explained — Wie werden Tierversuche durchgeführt und warum?\nAnimal research – what it means for the animals — Wie wird das Wohl der Tiere überwacht?\nAnimal research – researchers’ view on it — Persönliche Perspektiven von Forschenden.\nAnimal research – why it concerns us all — Ethische Fragestellungen.\nAnimal research – and its alternatives — Verfügbare Alternativen zu Tierversuchen."
+  },
+  {
+    "objectID": "about-project.html",
+    "href": "about-project.html",
+    "title": "Über das Projekt",
+    "section": "",
+    "text": "Wissenschaft und Forschung sollten nicht nur innerhalb der akademischen Gemeinschaft diskutiert werden, sondern auch für die Gesellschaft verständlich, transparent und zugänglich sein.\nBesonders beim Thema Forschung mit Tieren ist ein offener und faktenbasierter Dialog wichtig. Mit dieser Videoserie möchten wir zentrale Fragen aus der Bevölkerung aufgreifen und Forschenden eine Plattform bieten, ihre Arbeit verständlich zu erklären."
+  },
+  {
+    "objectID": "about-project.html#warum-dieses-projekt",
+    "href": "about-project.html#warum-dieses-projekt",
+    "title": "Über das Projekt",
+    "section": "",
+    "text": "Wissenschaft und Forschung sollten nicht nur innerhalb der akademischen Gemeinschaft diskutiert werden, sondern auch für die Gesellschaft verständlich, transparent und zugänglich sein.\nBesonders beim Thema Forschung mit Tieren ist ein offener und faktenbasierter Dialog wichtig. Mit dieser Videoserie möchten wir zentrale Fragen aus der Bevölkerung aufgreifen und Forschenden eine Plattform bieten, ihre Arbeit verständlich zu erklären."
+  },
+  {
+    "objectID": "about-project.html#die-idee",
+    "href": "about-project.html#die-idee",
+    "title": "Über das Projekt",
+    "section": "Die Idee",
+    "text": "Die Idee\nDie Videoserie entstand aus unserem Interesse an Wissenschaftskommunikation und dem Wunsch, den Austausch zwischen Forschung und Gesellschaft zu fördern.\nIn den Videos beantworten Forschende und Expertinnen und Experten Fragen rund um Forschung mit Tieren in der Schweiz – verständlich, transparent und wissenschaftlich fundiert."
+  },
+  {
+    "objectID": "about-project.html#beteiligung-der-bevölkerung",
+    "href": "about-project.html#beteiligung-der-bevölkerung",
+    "title": "Über das Projekt",
+    "section": "Beteiligung der Bevölkerung",
+    "text": "Beteiligung der Bevölkerung\nEin zentraler Bestandteil des Projekts war die Einbindung der Schweizer Bevölkerung, insbesondere von Jugendlichen und Schülerinnen und Schülern.\nIn einer Umfrage konnten Teilnehmende ihre Fragen und Gedanken zum Thema Forschung mit Tieren mit uns teilen. Insgesamt wurden dabei über 400 Fragen und Anregungen eingereicht."
+  },
+  {
+    "objectID": "about-project.html#von-fragen-zu-themen",
+    "href": "about-project.html#von-fragen-zu-themen",
+    "title": "Über das Projekt",
+    "section": "Von Fragen zu Themen",
+    "text": "Von Fragen zu Themen\nDie eingereichten Fragen wurden anonym ausgewertet und mithilfe moderner Methoden der Textanalyse analysiert. Durch den Einsatz von Word Embeddings konnten inhaltlich ähnliche Fragen automatisch gruppiert und zentrale Themen identifiziert werden.\nAus dieser Analyse entstanden die Themenschwerpunkte der Videoserie, darunter:\n\nZweck und Nutzen von Tierversuchen\nTierwohl\nEthische Fragen\nGesetzliche Regelungen\nPerspektiven von Forschenden\nAlternativen zu Tierversuchen"
+  },
+  {
+    "objectID": "about-project.html#interviews",
+    "href": "about-project.html#interviews",
+    "title": "Über das Projekt",
+    "section": "Interviews",
+    "text": "Interviews\nAuf Grundlage der häufigsten und repräsentativsten Fragen führten wir Interviews mit rund einem Dutzend jungen Forschenden sowie weiteren Expertinnen und Experten der Universität Zürich und anderer Schweizer Hochschulen.\nIhre Antworten bilden die Grundlage der Videos."
+  },
+  {
+    "objectID": "about-project.html#unser-ziel",
+    "href": "about-project.html#unser-ziel",
+    "title": "Über das Projekt",
+    "section": "Unser Ziel",
+    "text": "Unser Ziel\nWir möchten zu einem offenen, informierten und respektvollen Dialog über Forschung mit Tieren beitragen. Die Videoserie soll Hintergründe erklären, Fragen beantworten und unterschiedliche Perspektiven sichtbar machen."
+  },
+  {
+    "objectID": "en/about.html",
+    "href": "en/about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "We are Simona Doneva and Tosca Dalessi. During our PhD studies at the University of Zurich, we developed a strong interest in animal research, science communication, and the dialogue between science and society.\nThis interest inspired the creation of the video series “Research with Animals in Switzerland.” Our goal is to make scientific information accessible and to provide a platform where questions from the public can be answered directly by researchers."
+  },
+  {
+    "objectID": "en/about.html#project-leads",
+    "href": "en/about.html#project-leads",
+    "title": "About Us",
+    "section": "Project Leads",
+    "text": "Project Leads\n\nDr. Simona Doneva\nDr. Tosca Dalessi"
+  },
+  {
+    "objectID": "en/about.html#supporting-institutions",
+    "href": "en/about.html#supporting-institutions",
+    "title": "About Us",
+    "section": "Supporting Institutions",
+    "text": "Supporting Institutions\nThis project was supported and accompanied by:\n\nVice President Research Office (University of Zurich)\nOffice for Animal Welfare and 3R (University of Zurich)\nUZH Communications\nLife Science Zurich"
+  },
+  {
+    "objectID": "en/about.html#contact",
+    "href": "en/about.html#contact",
+    "title": "About Us",
+    "section": "Contact",
+    "text": "Contact\nIf you have any questions or comments, we would be happy to hear from you.\nContact: Show email"
+  },
+  {
+    "objectID": "topics/02-wellbeing.html",
+    "href": "topics/02-wellbeing.html",
+    "title": "Animal research – what it means for the animals",
+    "section": "",
+    "text": "Wie ist das Wohl der Tiere organisiert und überwacht? Diese Themenseite behandelt Haltungsbedingungen, Betreuung und Monitoring.\nStatus: Coming soon"
+  },
+  {
+    "objectID": "topics/02-wellbeing.html#animal-research-what-it-means-for-the-animals",
+    "href": "topics/02-wellbeing.html#animal-research-what-it-means-for-the-animals",
+    "title": "Animal research – what it means for the animals",
+    "section": "",
+    "text": "Wie ist das Wohl der Tiere organisiert und überwacht? Diese Themenseite behandelt Haltungsbedingungen, Betreuung und Monitoring.\nStatus: Coming soon"
+  },
+  {
+    "objectID": "topics/index.html",
+    "href": "topics/index.html",
+    "title": "Themen der Videoserie",
+    "section": "",
+    "text": "Die Serie ist in fünf zentrale Themen gegliedert. Alle Inhalte sind derzeit “Coming soon”.\n\n\nTierversuche – einfach erklärt\n\nWelche Tierarten werden verwendet und welche Vorschriften gelten für Tierversuche in der Schweiz? Coming soon\n\n\n\nTierversuche – was sie für Tiere bedeuten\n\nWie werden Tiere gehalten, geschützt und überwacht? Coming soon\n\n\n\nTierversuche – wie Forschende darüber denken\n\nWie gehen Forschende persönlich mit Tierversuchen um? Coming soon\n\n\n\nTierversuche – warum sie uns alle betreffen\n\nZu welchen Zwecken sind Tierversuche erlaubt und wie werden sie bewilligt? Coming soon\n\n\n\nTierversuche – und ihre Alternativen\n\nWelche Alternativen zu Tierversuchen gibt es? Coming soon"
+  },
+  {
+    "objectID": "topics/01-explained.html",
+    "href": "topics/01-explained.html",
+    "title": "Tierversuche – einfach erklärt",
+    "section": "",
+    "text": "In diesem ersten Video erfahren Sie mehr über die verschiedenen Arten von Tierversuchen, welche Tierarten verwendet werden, wie sie eingesetzt werden und welche Vorschriften für alle Tierversuche gelten.\nStatus: Coming soon"
+  }
+]

@@ -1,0 +1,44 @@
+---
+title: "Über das Projekt"
+---
+
+## Warum dieses Projekt?
+
+Wissenschaft und Forschung sollten nicht nur innerhalb der akademischen Gemeinschaft diskutiert werden, sondern auch für die Gesellschaft verständlich, transparent und zugänglich sein.
+
+Besonders beim Thema **Forschung mit Tieren** ist ein offener und faktenbasierter Dialog wichtig. Mit dieser Videoserie möchten wir zentrale Fragen aus der Bevölkerung aufgreifen und Forschenden eine Plattform bieten, ihre Arbeit verständlich zu erklären.
+
+## Die Idee
+
+Die Videoserie entstand aus unserem Interesse an Wissenschaftskommunikation und dem Wunsch, den Austausch zwischen Forschung und Gesellschaft zu fördern.
+
+In den Videos beantworten Forschende und Expertinnen und Experten Fragen rund um Forschung mit Tieren in der Schweiz – verständlich, transparent und wissenschaftlich fundiert.
+
+## Beteiligung der Bevölkerung
+
+Ein zentraler Bestandteil des Projekts war die Einbindung der Schweizer Bevölkerung, insbesondere von Jugendlichen und Schülerinnen und Schülern.
+
+In einer Umfrage konnten Teilnehmende ihre Fragen und Gedanken zum Thema Forschung mit Tieren mit uns teilen. Insgesamt wurden dabei über **400 Fragen und Anregungen** eingereicht.
+
+## Von Fragen zu Themen
+
+Die eingereichten Fragen wurden anonym ausgewertet und mithilfe moderner Methoden der Textanalyse analysiert. Durch den Einsatz von **Word Embeddings** konnten inhaltlich ähnliche Fragen automatisch gruppiert und zentrale Themen identifiziert werden.
+
+Aus dieser Analyse entstanden die Themenschwerpunkte der Videoserie, darunter:
+
+- Zweck und Nutzen von Tierversuchen
+- Tierwohl
+- Ethische Fragen
+- Gesetzliche Regelungen
+- Perspektiven von Forschenden
+- Alternativen zu Tierversuchen
+
+## Interviews
+
+Auf Grundlage der häufigsten und repräsentativsten Fragen führten wir Interviews mit rund einem Dutzend jungen Forschenden sowie weiteren Expertinnen und Experten der Universität Zürich und anderer Schweizer Hochschulen.
+
+Ihre Antworten bilden die Grundlage der Videos.
+
+## Unser Ziel
+
+Wir möchten zu einem offenen, informierten und respektvollen Dialog über Forschung mit Tieren beitragen. Die Videoserie soll Hintergründe erklären, Fragen beantworten und unterschiedliche Perspektiven sichtbar machen.

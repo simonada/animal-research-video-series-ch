@@ -1,0 +1,176 @@
+/* Basic styling for info boxes and layout */
+:root{
+  --berry: #BF0D3E; /* UZH Berry */
+  --berry-v1: #FBC6D4;
+  --berry-v2: #F78CAA;
+  --berry-v3: #F3537F;
+  --card-bg: #ffffff;
+  --text: #17202a;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  line-height: 1.6;
+  margin: 0;
+  color: var(--text);
+  background: #fafafa;
+}
+
+/* Hero banner inspired by provided design. Place banner image at images/main_pic.png */
+.site-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  background: #371831;
+  color: white;
+  padding: 2.25rem 1.25rem;
+  margin: 0 auto 1.25rem auto;
+  text-align: center;
+  max-width: 900px;
+  box-sizing: border-box;
+}
+.site-hero h1{
+  color: var(--berry-v3);
+  font-size: 2.6rem;
+  margin: 0 0 0.5rem 0;
+  line-height: 1;
+}
+.site-hero p{
+  color: var(--berry-v1);
+  margin: 0.25rem 0 0 0;
+}
+.hero-banner{ max-width: 900px; margin: 0 auto; }
+.hero-banner img, img.hero-banner { display:block; width:100%; height:auto; max-width:900px; margin:0 auto; }
+/* Stronger override to prevent other global rules from making the image full-bleed */
+.site-hero img.hero-banner {
+  max-width: 720px !important;
+  width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.info-box {
+  background: var(--card-bg);
+  border: 1px solid #e9e6ed;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(21,25,28,0.03);
+}
+
+.info-box strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--berry);
+}
+
+@media (max-width: 900px){
+  .site-hero{ text-align:center }
+  .hero-image{ height:200px; background-position:center; }
+}
+
+/* Coming soon badge */
+.coming-soon-badge {
+  display: inline-block;
+  background: var(--berry-v1);
+  color: var(--berry-v3);
+  border: 1px solid var(--berry-v2);
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  font-weight: 600;
+  margin-left: 0.5rem;
+}
+
+/* Topic card styles */
+.topic-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.topic-list li {
+  margin: 0.6rem 0;
+  padding: 0.8rem;
+  border-radius: 8px;
+  border: 1px solid var(--berry-v1);
+  background: #ffffff;
+}
+.topic-list a {
+  color: var(--berry);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* Accent for topic cards */
+.topic-list li {
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+.topic-list li:hover{ transform: translateY(-4px); box-shadow: 0 6px 18px rgba(191,13,62,0.12); }
+
+.accent-line{ height:4px; background: var(--berry); border-radius:4px; margin-top:0.6rem }
+
+/* Quarto/navbar overrides: use UZH Berry for links and neutral background */
+header.site-header,
+.navbar,
+.site-nav,
+.site-navbar,
+nav.navbar {
+  background: #ffffff; /* keep header neutral */
+  border-bottom: 1px solid var(--berry-v1);
+}
+
+/* Navbar links */
+header.site-header a,
+.site-nav a,
+.site-navbar a,
+nav.navbar a,
+.navbar-nav a,
+.q-nav a {
+  color: var(--berry) !important;
+  font-weight: 600;
+}
+
+.site-nav a:hover,
+.site-navbar a:hover,
+nav.navbar a:hover,
+.q-nav a:hover {
+  color: var(--berry-v3) !important;
+}
+
+/* Brand/title color */
+.site-title, header.site-header .site-title a {
+  color: var(--berry) !important;
+}
+
+/* Place sub_icon.png as a logo in the top-left corner of the header */
+header#quarto-header { position: fixed !important; }
+
+/* Fallback: draw logo as background of nav (helps when pseudo-element is hidden) */
+nav.navbar { position: relative; }
+nav.navbar::before{
+  content: "";
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 72px;
+  height: 72px;
+  background-image: url('images/sub_icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 9999;
+  pointer-events: none;
+}
+/* Make room so the centered brand doesn't visually overlap the logo */
+.navbar-brand-container.mx-auto { padding-left: 90px; }
+/* make navbar taller so header doesn't appear minimized */
+nav.navbar { padding-top: 0.9rem; padding-bottom: 0.9rem; }
