@@ -205,3 +205,22 @@ nav.navbar::before{
 .navbar-toggler-icon {
   filter: invert(18%) sepia(95%) saturate(3564%) hue-rotate(335deg) brightness(80%) contrast(96%);
 }
+
+@media (max-width: 768px) {
+  body {
+    padding-top: 70px;
+  }
+
+  .navbar-collapse {
+    background: #ffffff;
+    padding: 1rem;
+    border-top: 1px solid var(--berry-v1);
+  }
+
+  .navbar-toggler,
+  .navbar-collapse,
+  .navbar-nav {
+    position: relative;
+    z-index: 10001;
+  }
+}
