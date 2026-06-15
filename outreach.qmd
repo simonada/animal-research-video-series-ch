@@ -1,0 +1,87 @@
+## Kommende Aktivitäten
+
+::: {.outreach-card}
+### Scientifica 2026
+
+**Datum:** 22.–30. August 2026  
+**Ort:** Zürich (ETH Zürich, Universität Zürich und weitere Standorte)
+
+<details>
+<summary>Mehr Details</summary>
+
+Wir werden mit dem Projekt *«Forschung mit Tieren in der Schweiz»* Teil der Ausstellung **«Of Cells, Organs and Animals»** an der Scientifica 2026 sein.
+
+Die Ausstellung zeigt, wie Forschung mit Tieren und moderne Alternativmethoden zusammenwirken und wie die 3R-Prinzipien (Replacement, Reduction, Refinement) in der Forschung umgesetzt werden. Besucherinnen und Besucher erhalten Einblicke in aktuelle Forschung und können mit Forschenden direkt ins Gespräch kommen. :contentReference[oaicite:0]{index=0}
+
+Weitere Informationen:<br>
+<a href="https://scientifica.ch/en/ausstellungen/of-cells-organs-and-animals/
+" target="_blank">
+https://scientifica.ch/en/ausstellungen/of-cells-organs-and-animals/
+</a>
+</details>
+:::
+
+::: {.outreach-card}
+### #BOARD26 – EARA
+
+**Datum:** 9. Juli 2026  
+**Format:** Online-Veranstaltung
+
+<details>
+<summary>Mehr Details</summary>
+
+Unser fünftes Video wird im Rahmen von **#BOARD26**, einer Veranstaltung der European Animal Research Association (EARA), präsentiert.
+
+Die diesjährige Kampagne widmet sich dem Verhältnis zwischen Tierversuchen und sogenannten *New Approach Methodologies* (NAMs), darunter Organoide, Organ-on-Chip-Systeme, computergestützte Modelle und weitere moderne Forschungsansätze. Ziel der Initiative ist es, aufzuzeigen, dass Tierversuche und alternative Methoden nicht als konkurrierende, sondern als sich ergänzende Werkzeuge der biomedizinischen Forschung betrachtet werden sollten.
+
+Mit der Präsentation unseres Videos möchten wir zu einem faktenbasierten und ausgewogenen Dialog über Forschung mit Tieren, Alternativmethoden und wissenschaftliche Transparenz beitragen.
+
+Weitere Informationen:
+<br>
+<a href="https://www.eara.eu/events/board26" target="_blank">
+https://www.eara.eu/events/board26
+</a>
+
+</details>
+:::
+
+::: {.outreach-card}
+### Videovorführung und Austausch
+
+**Datum:** Donnerstag, 18. Juni 2026  
+**Zeit:** 17:30–20:00 Uhr  
+**Ort:** Kinosaal, Naturhistorisches Museum der UZH, Karl-Schmid-Strasse 4, 8006 Zürich
+
+<details>
+<summary>Mehr Details</summary>
+
+**Anmeldung:**  
+<a href="https://www.ema.uzh.ch/de/register/animal-research-in-switzerland-videos-screening.html" target="_blank">
+ema.uzh.ch/R3MME
+</a>
+
+**Programm**
+
+- 17:30–18:30 Videovorführung
+- 18:30–18:50 Fragerunde mit dem Publikum
+- 18:50–20:00 Apéro & Austausch
+
+</details>
+:::
+
+## Vergangene Aktivitäten
+
+::: {.outreach-card}
+### Stand am NRP 79 Anlass
+
+**Datum:** 15. April 2026, 10:30–16:00 Uhr  
+**Ort:** Forum Fribourg, Route du Lac 12, 1763 Granges-Paccot  
+**Organisator:** NRP 79
+
+<details>
+<summary>Mehr Details</summary>
+
+Wir waren mit einem Informationsstand vertreten und stellten das Projekt *«Forschung mit Tieren in der Schweiz»* vor. Besucherinnen und Besucher konnten mehr über die Videoserie erfahren und mit uns über Fragen rund um Forschung mit Tieren ins Gespräch kommen.
+
+</details>
+:::

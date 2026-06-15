@@ -4,6 +4,11 @@ project:
 
 website:
   title: "Forschung mit Tieren in der Schweiz"
+  page-footer:
+    center: |
+      © 2026 Forschung mit Tieren in der Schweiz · Website developed by Simona Doneva ·
+      [GitHub Repository](https://github.com/simonada/animal-research-video-series-ch) ·
+      Illustrations: Sarah Steinbacher, UZH Multimedia & E-Learning Services 
   navbar:
     left:
       - text: "Home"
@@ -14,6 +19,8 @@ website:
         href: about.qmd
       - text: "Über das Projekt"
         href: about-project.qmd
+      - text: "Outreach"
+        href: outreach.qmd
     #right:
      # - text: "DE"
       #  href: index.qmd
