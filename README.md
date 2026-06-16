@@ -68,8 +68,9 @@ This project was supported by:
 
 - Vice President Research Office, University of Zurich
 - Office for Animal Welfare and 3R, University of Zurich
-- UZH Communications
+- Abteilung Kommunikation (University of Zurich)
 - Life Science Zurich
+- Multimedia & E-Learning Services (MELS), University of Zurich
 
 ## Contact
 
