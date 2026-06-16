@@ -2,7 +2,7 @@
   {
     "objectID": "topics/05-alternatives.html",
     "href": "topics/05-alternatives.html",
-    "title": "Tierversuche – Alternativen",
+    "title": "Tierversuche – und ihre Alternativen",
     "section": "",
     "text": "Welche Alternativen zu Tierversuchen gibt es? Hier werden in-vitro-Methoden, Computersimulationen und andere Ansätze vorgestellt.\nStatus: Coming soon"
   },
@@ -123,14 +123,14 @@
     "href": "about-project.html#von-fragen-zu-themen",
     "title": "Über das Projekt",
     "section": "Von Fragen zu Themen",
-    "text": "Von Fragen zu Themen\nDie eingereichten Fragen wurden anonym ausgewertet und mithilfe moderner Methoden der Textanalyse analysiert. Durch den Einsatz von Word Embeddings konnten inhaltlich ähnliche Fragen automatisch gruppiert und zentrale Themen identifiziert werden.\nAus dieser Analyse entstanden die Themenschwerpunkte der Videoserie, darunter:\n\nZweck und Nutzen von Tierversuchen\nTierwohl\nEthische Fragen\nGesetzliche Regelungen\nPerspektiven von Forschenden\nAlternativen zu Tierversuchen"
+    "text": "Von Fragen zu Themen\nDie eingereichten Fragen wurden anonym ausgewertet und mithilfe moderner Methoden der Textanalyse analysiert. Durch den Einsatz von Word Embeddings konnten inhaltlich ähnliche Fragen automatisch gruppiert und zentrale Themen identifiziert werden.\nAus dieser Analyse entstanden die Themenschwerpunkte der Videoserie, darunter:\n\nZweck und Nutzen von Tierversuchen\nTierwohl und 3R-Prinzipien\nEthische Fragen\nGesetzliche Regelungen\nPerspektiven von Forschenden\nAlternativen zu Tierversuchen"
   },
   {
     "objectID": "about-project.html#interviews",
     "href": "about-project.html#interviews",
     "title": "Über das Projekt",
     "section": "Interviews",
-    "text": "Interviews\nAuf Grundlage der häufigsten und repräsentativsten Fragen führten wir Interviews mit rund einem Dutzend jungen Forschenden sowie weiteren Expertinnen und Experten der Universität Zürich und anderer Schweizer Hochschulen.\nIhre Antworten bilden die Grundlage der Videos."
+    "text": "Interviews\nAuf Grundlage der häufigsten und repräsentativsten Fragen führten wir Interviews mit rund einem Dutzend jungen Forschenden sowie weiteren Expertinnen und Experten aus UZH, Universität Basel und Universität Fribourg.\nIhre Antworten bilden die Grundlage der Videos."
   },
   {
     "objectID": "about-project.html#unser-ziel",
@@ -151,14 +151,14 @@
     "href": "index.html#themenübersicht",
     "title": "Willkommen zur Videoserie «Forschung mit Tieren in der Schweiz»",
     "section": "Themenübersicht",
-    "text": "Themenübersicht\nDie Videoserie ist in fünf Themen gegliedert — klicken Sie auf ein Thema für Details:\n\nAnimal research – simply explained — Wie werden Tierversuche durchgeführt und warum?\nAnimal research – what it means for the animals — Wie wird das Wohl der Tiere überwacht?\nAnimal research – researchers’ view on it — Persönliche Perspektiven von Forschenden.\nAnimal research – why it concerns us all — Ethische Fragestellungen.\nAnimal research – and its alternatives — Verfügbare Alternativen zu Tierversuchen."
+    "text": "Themenübersicht\nDie Videoserie ist in fünf Themen gegliedert — klicken Sie auf ein Thema für Details:\n\nTierversuche – einfach erklärt — Wie werden Tierversuche durchgeführt und warum?\nTierversuche – was sie für die Tiere bedeutet — Wie wird das Wohl der Tiere überwacht?\nTierversuche – wie Forschende darüber denken — Persönliche Perspektiven von Forschenden.\nTierversuche – warum es uns alle betrifft — Ethische Fragestellungen.\nTierversuche – und ihre Alternativen — Verfügbare Alternativen zu Tierversuchen."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Über uns",
     "section": "",
-    "text": "Wir sind Simona Doneva und Tosca Dalessi. Während unserer Promotionen an der Universität Zürich beschäftigten wir uns intensiv mit den Themen Forschung mit Tieren, Wissenschaftskommunikation und dem Dialog zwischen Wissenschaft und Gesellschaft.\nAus diesem Interesse heraus entstand die Idee für die Videoserie «Forschung mit Tieren in der Schweiz». Unser Ziel ist es, wissenschaftliche Informationen verständlich aufzubereiten und Fragen aus der Bevölkerung direkt von Forschenden beantworten zu lassen."
+    "text": "Wir sind Simona Doneva und Tosca Dalessi. Während unserer Promotionen an der Universität Zürich (UZH) beschäftigten wir uns intensiv mit den Themen Forschung mit Tieren, Wissenschaftskommunikation und dem Dialog zwischen Wissenschaft und Gesellschaft.\nAus diesem Interesse heraus entstand die Idee für die Videoserie «Forschung mit Tieren in der Schweiz». Unser Ziel ist es, wissenschaftliche Informationen verständlich aufzubereiten und Fragen aus der Bevölkerung direkt von Forschenden beantworten zu lassen."
   },
   {
     "objectID": "about.html#projektleitung",
@@ -172,7 +172,7 @@
     "href": "about.html#unterstützende-stellen",
     "title": "Über uns",
     "section": "Unterstützende Stellen",
-    "text": "Unterstützende Stellen\nDieses Projekt wurde unterstützt und begleitet durch:\n\nProrektorat Forschung (Universität Zürich)\nAbteilung 3R & Tierwohl (Universität Zürich)\nUZH-Kommunikation\nLife Science Zurich"
+    "text": "Unterstützende Stellen\nDieses Projekt wurde unterstützt und begleitet durch:\n\nProrektorat Forschung (UZH)\nAbteilung 3R & Tierwohl (UZH)\nAbteilung Kommunikation (UZH)\nLife Science Zurich"
   },
   {
     "objectID": "about.html#kontakt",

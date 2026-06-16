@@ -31,14 +31,14 @@ Die Serie erklärt zentrale Fragen aus der Bevölkerung zu Tierversuchen — ver
 
 ::: {.info-box}
 **Wer wir sind**
-Tosca Dalessi und Simona Doneva haben das Projekt während ihrer Promotionen an der Universität Zürich initiiert.
+Tosca Dalessi und Simona Doneva haben das Projekt während ihrer Promotionen an der Universität Zürich (UZH) initiiert.
 
 :::
 
 ::: {.info-box}
 **Unterstützung**
-
-Gefördert und begleitet vom Prorektorat Forschung, der Abteilung 3R & Tierwohl, UZH-Kommunikation und Life Science Zurich.
+    
+Gefördert und begleitet vom Prorektorat Forschung (UZH), der Abteilung 3R & Tierwohl (UZH), Abteilung Kommunikation (UZH), und Life Science Zurich.
 :::
 
 ::: {.info-box}
@@ -54,8 +54,8 @@ Weitere Informationen und die vollständige Videoliste finden Sie unter **Videos
 
 Die Videoserie ist in fünf Themen gegliedert — klicken Sie auf ein Thema für Details:
 
-- [Animal research – simply explained](topics/01-explained.qmd) — Wie werden Tierversuche durchgeführt und warum?
-- [Animal research – what it means for the animals](topics/02-wellbeing.qmd) — Wie wird das Wohl der Tiere überwacht?
-- [Animal research – researchers’ view on it](topics/03-researchers-view.qmd) — Persönliche Perspektiven von Forschenden.
-- [Animal research – why it concerns us all](topics/04-ethical.qmd) — Ethische Fragestellungen.
-- [Animal research – and its alternatives](topics/05-alternatives.qmd) — Verfügbare Alternativen zu Tierversuchen.
+- [Tierversuche – einfach erklärt](topics/01-explained.qmd) — Wie werden Tierversuche durchgeführt und warum?
+- [Tierversuche – was sie für die Tiere bedeutet](topics/02-wellbeing.qmd) — Wie wird das Wohl der Tiere überwacht?
+- [Tierversuche – wie Forschende darüber denken](topics/03-researchers-view.qmd) — Persönliche Perspektiven von Forschenden.
+- [Tierversuche – warum es uns alle betrifft](topics/04-ethical.qmd) — Ethische Fragestellungen.
+- [Tierversuche – und ihre Alternativen](topics/05-alternatives.qmd) — Verfügbare Alternativen zu Tierversuchen.

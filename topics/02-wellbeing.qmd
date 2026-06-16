@@ -1,9 +1,7 @@
 ---
-title: "Animal research – what it means for the animals"
+title: "Tierversuche – was sie für die Tiere bedeuten"
 ---
 
-## Animal research – what it means for the animals
-
-Wie ist das Wohl der Tiere organisiert und überwacht? Diese Themenseite behandelt Haltungsbedingungen, Betreuung und Monitoring.
+In dieser Folge behandeln wir Fragen zur Tierhaltung und zu den Regeln für Tierversuche in der Schweiz sowie deren Überprüfung. Ausserdem erfahren Sie, wie die Belastung von Tieren beurteilt und eingestuft wird und wie Forschende Schmerzen und Stress minimieren.
 
 Status: <span class="coming-soon-badge">Coming soon</span>

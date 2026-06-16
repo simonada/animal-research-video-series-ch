@@ -1,5 +1,5 @@
 ---
-title: "Tierversuche – Alternativen"
+title: "Tierversuche – und ihre Alternativen"
 ---
 
 Welche Alternativen zu Tierversuchen gibt es? Hier werden in-vitro-Methoden, Computersimulationen und andere Ansätze vorgestellt.
