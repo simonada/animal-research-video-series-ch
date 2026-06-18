@@ -59,3 +59,10 @@ Die Videoserie ist in fünf Themen gegliedert — klicken Sie auf ein Thema für
 - [Tierversuche – wie Forschende darüber denken](topics/03-researchers-view.qmd) — Persönliche Perspektiven von Forschenden.
 - [Tierversuche – warum es uns alle betrifft](topics/04-ethical.qmd) — Ethische Fragestellungen.
 - [Tierversuche – und ihre Alternativen](topics/05-alternatives.qmd) — Verfügbare Alternativen zu Tierversuchen.
+
+::: {.image-row}
+![](images/tiere.png){fig-alt="Bild 1"}
+![](images/versuche.png){fig-alt="Bild 2"}
+![](images/3R.png){fig-alt="Bild 3"}
+
+:::
