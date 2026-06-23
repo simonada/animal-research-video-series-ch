@@ -21,6 +21,18 @@ body {
   background: #fafafa;
 }
 
+.about-image {
+  max-width: 520px;
+  margin: 2rem auto;
+}
+
+.about-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
 /* Hero banner inspired by provided design. Place banner image at images/main_pic.png */
 .site-hero {
   display: flex;
@@ -97,30 +109,51 @@ body {
 
 /* Topic card styles */
 .topic-list {
-  list-style: none;
-  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
   margin: 0;
+  padding: 0;
 }
-.topic-list li {
-  margin: 0.6rem 0;
-  padding: 0.8rem;
+
+.topic-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
   border-radius: 8px;
   border: 1px solid var(--berry-v1);
   background: #ffffff;
+  transition: transform 160ms ease, box-shadow 160ms ease;
 }
-.topic-list a {
+
+.topic-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(255, 63, 132, 0.12);
+}
+
+.topic-thumb {
+  width: 95px;
+  height: 95px;
+  object-fit: contain;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.topic-text {
+  flex: 1;
+}
+
+.topic-text p {
+  margin: 0.25rem 0 0 0;
+}
+
+.topic-text a {
   color: var(--berry);
   font-weight: 600;
   text-decoration: none;
 }
-
-/* Accent for topic cards */
-.topic-list li {
-  transition: transform 160ms ease, box-shadow 160ms ease;
-}
-.topic-list li:hover{ transform: translateY(-4px); box-shadow: 0 6px 18px rgba(191,13,62,0.12); }
-
-.accent-line{ height:4px; background: var(--berry); border-radius:4px; margin-top:0.6rem }
 
 /* Quarto/navbar overrides: use UZH Berry for links and neutral background */
 header.site-header,

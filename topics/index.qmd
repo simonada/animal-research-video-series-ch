@@ -4,15 +4,56 @@ title: "Themen der Videoserie"
 
 Die Serie ist in fünf zentrale Themen gegliedert. Alle Inhalte sind derzeit "Coming soon".
 
-<ul class="topic-list">
-	<li><a href="01-explained.qmd">Tierversuche – einfach erklärt</a>
-	<div>Welche Tierarten werden verwendet und welche Vorschriften gelten für Tierversuche in der Schweiz? <span class="coming-soon-badge">Coming soon</span></div></li>
-	<li><a href="02-wellbeing.qmd">Tierversuche – was sie für Tiere bedeuten</a>
-	<div>Wie werden Tiere gehalten, geschützt und überwacht? <span class="coming-soon-badge">Coming soon</span></div></li>
-	<li><a href="03-researchers-view.qmd">Tierversuche – wie Forschende darüber denken</a>
-	<div>Wie gehen Forschende persönlich mit Tierversuchen um? <span class="coming-soon-badge">Coming soon</span></div></li>
-	<li><a href="04-ethical.qmd">Tierversuche – warum sie uns alle betreffen</a>
-	<div>Zu welchen Zwecken sind Tierversuche erlaubt und wie werden sie bewilligt? <span class="coming-soon-badge">Coming soon</span></div></li>
-	<li><a href="05-alternatives.qmd">Tierversuche – und ihre Alternativen</a>
-	<div>Welche Alternativen zu Tierversuchen gibt es? <span class="coming-soon-badge">Coming soon</span></div></li>
-</ul>
+::: {.topic-list}
+
+::: {.topic-card}
+![](../images/tiere.png){.topic-thumb fig-alt=""}
+
+::: {.topic-text}
+[Tierversuche – einfach erklärt](01-explained.qmd)
+
+Welche Tierarten werden verwendet und welche Vorschriften gelten für Tierversuche in der Schweiz? <span class="coming-soon-badge">Coming soon</span>
+:::
+:::
+
+::: {.topic-card}
+![](../images/versuche.png){.topic-thumb fig-alt=""}
+
+::: {.topic-text}
+[Tierversuche – was sie für Tiere bedeuten](02-wellbeing.qmd)
+
+Wie werden Tiere gehalten, geschützt und überwacht? <span class="coming-soon-badge">Coming soon</span>
+:::
+:::
+
+::: {.topic-card}
+![](../images/forschende.png){.topic-thumb fig-alt=""}
+
+::: {.topic-text}
+[Tierversuche – wie Forschende darüber denken](03-researchers-view.qmd)
+
+Wie gehen Forschende persönlich mit Tierversuchen um? <span class="coming-soon-badge">Coming soon</span>
+:::
+:::
+
+::: {.topic-card}
+![](../images/ethik.png){.topic-thumb fig-alt=""}
+
+::: {.topic-text}
+[Tierversuche – warum sie uns alle betreffen](04-ethical.qmd)
+
+Zu welchen Zwecken sind Tierversuche erlaubt und wie werden sie bewilligt? <span class="coming-soon-badge">Coming soon</span>
+:::
+:::
+
+::: {.topic-card}
+![](../images/3R.png){.topic-thumb fig-alt=""}
+
+::: {.topic-text}
+[Tierversuche – und ihre Alternativen](05-alternatives.qmd)
+
+Welche Alternativen zu Tierversuchen gibt es? <span class="coming-soon-badge">Coming soon</span>
+:::
+:::
+
+:::

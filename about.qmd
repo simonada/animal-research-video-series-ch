@@ -7,9 +7,12 @@ Wir sind Simona Doneva und Tosca Dalessi. Während unserer Promotionen an der Un
 Aus diesem Interesse heraus entstand die Idee für die Videoserie *«Forschung mit Tieren in der Schweiz»*. Unser Ziel ist es, wissenschaftliche Informationen verständlich aufzubereiten und Fragen aus der Bevölkerung direkt von Forschenden beantworten zu lassen.
 
 ## Projektleitung
-
-- **Simona Doneva**
 - **Tosca Dalessi**
+- **Simona Doneva**
+
+::: {.about-image}
+![](images/about-us.png){fig-alt="Simona Doneva und Tosca Dalessi"}
+:::
 
 ## Unterstützende Stellen
 
@@ -25,4 +28,4 @@ Dieses Projekt wurde unterstützt und begleitet durch:
 
 Bei Fragen oder Anregungen freuen wir uns über Ihre Kontaktaufnahme.
 
-Kontakt: [E-Mail anzeigen](mailto:info@example.org)
+Kontakt: [E-Mail anzeigen](mailto:wissen.tierversuche@ik.me)
