@@ -1,9 +1,13 @@
 /* Basic styling for info boxes and layout */
 :root{
-  --berry: #BF0D3E; /* UZH Berry */
-  --berry-v1: #FBC6D4;
-  --berry-v2: #F78CAA;
-  --berry-v3: #F3537F;
+  --pink: #ff3f84;
+  --violet: #371831;
+
+  --berry: #ff3f84;
+  --berry-v1: #ffd4e5;
+  --berry-v2: #ff8ab7;
+  --berry-v3: #ff3f84;
+
   --card-bg: #ffffff;
   --text: #17202a;
 }
@@ -171,7 +175,7 @@ nav.navbar::before{
   transform: translateY(-50%);
   width: 72px;
   height: 72px;
-  background-image: url('images/sub_icon.png');
+  background-image: url('images/titel_violette.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -239,4 +243,30 @@ nav.navbar::before{
   font-weight: 600;
   cursor: pointer;
   margin-top: 0.75rem;
+}
+
+.image-row {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 2rem auto;
+  max-width: 900px;
+  flex-wrap: nowrap;
+}
+
+.image-row p {
+  margin: 0;
+  display: contents;
+}
+
+.image-row img {
+  width: 30vw;
+  max-width: 280px;
+  min-width: 180px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  display: block;
 }
