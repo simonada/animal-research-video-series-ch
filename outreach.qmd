@@ -68,27 +68,6 @@ https://www.eara.eu/events/board26
 :::
 
 ::: {.outreach-card}
-### #NIDEA – National Information Day of the Experimental Animal 2026
-
-**Datum:** 27. Juni 2026  
-**Ort:** Bundesplatz, Bern
-
-<details>
-<summary>Mehr Details</summary>
-
-An dieser Veranstaltung steht in Bern ein Informationsstand bereit, der den Austausch zwischen Forschung und Gesellschaft zum Thema *«Forschung mit Tieren»* fördern soll. Besucherinnen und Besucher haben die Möglichkeit, Fragen zu stellen und mit Forschenden ins Gespräch zu kommen.
-
-Mit unserer Videoserie leisten wir einen Beitrag zu diesem Dialog und bieten einen verständlichen Einblick in verschiedene Aspekte der Forschung mit Tieren in der Schweiz.
-
-Weitere Informationen:  
-<a href="https://sgv.org/de/uuid/i/c2928a21-b5a1-5d6f-b1d9-1f98db544531-NIDEA_2026" target="_blank">
-Zur Veranstaltungsseite
-</a>
-
-</details>
-:::
-
-::: {.outreach-card}
 ### Fortschritte in der Forschung: Wo stehen wir bei Tierversuchen?
 
 **Datum:** 23. Juni 2026  
@@ -109,6 +88,8 @@ Zur Veranstaltungsseite
 
 </details>
 :::
+
+## Vergangene Aktivitäten
 
 ::: {.outreach-card}
 ### Videovorführung und Austausch
@@ -134,7 +115,6 @@ ema.uzh.ch/R3MME
 </details>
 :::
 
-## Vergangene Aktivitäten
 
 ::: {.outreach-card}
 ### Stand am NRP 79 Anlass

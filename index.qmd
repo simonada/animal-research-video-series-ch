@@ -62,7 +62,6 @@ Die Videoserie ist in fünf Themen gegliedert — klicken Sie auf ein Thema für
 
 ::: {.image-row}
 ![](images/tiere.png){fig-alt="Bild 1"}
-![](images/versuche.png){fig-alt="Bild 2"}
 ![](images/3R.png){fig-alt="Bild 3"}
 
 :::
