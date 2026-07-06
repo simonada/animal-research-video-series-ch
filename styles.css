@@ -106,7 +106,17 @@ body {
   font-weight: 600;
   margin-left: 0.5rem;
 }
-
+/* Live badge */
+.live-badge {
+  display: inline-block;
+  background: #e6f7ec;
+  color: #1f7a3f;
+  border: 1px solid #78c98f;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  font-weight: 600;
+  margin-left: 0.5rem;
+}
 /* Topic card styles */
 .topic-list {
   display: flex;

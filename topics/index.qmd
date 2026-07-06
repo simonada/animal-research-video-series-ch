@@ -2,7 +2,7 @@
 title: "Themen der Videoserie"
 ---
 
-Die Serie ist in fünf zentrale Themen gegliedert. Alle Inhalte sind derzeit "Coming soon".
+Die Serie ist in fünf zentrale Themen gegliedert. 
 
 ::: {.topic-list}
 
@@ -12,7 +12,7 @@ Die Serie ist in fünf zentrale Themen gegliedert. Alle Inhalte sind derzeit "Co
 ::: {.topic-text}
 [Tierversuche – einfach erklärt](01-explained.qmd)
 
-Welche Tierarten werden verwendet und welche Vorschriften gelten für Tierversuche in der Schweiz? <span class="coming-soon-badge">Coming soon</span>
+Welche Tierarten werden verwendet und welche Vorschriften gelten für Tierversuche in der Schweiz? <span class="live-badge">Live</span>
 :::
 :::
 
@@ -22,7 +22,7 @@ Welche Tierarten werden verwendet und welche Vorschriften gelten für Tierversuc
 ::: {.topic-text}
 [Tierversuche – was sie für Tiere bedeuten](02-wellbeing.qmd)
 
-Wie werden Tiere gehalten, geschützt und überwacht? <span class="coming-soon-badge">Coming soon</span>
+Wie werden Tiere gehalten, geschützt und überwacht? <span class="live-badge">Live</span>
 :::
 :::
 
