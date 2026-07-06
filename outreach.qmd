@@ -67,6 +67,9 @@ https://www.eara.eu/events/board26
 </details>
 :::
 
+
+## Vergangene Aktivitäten
+
 ::: {.outreach-card}
 ### Fortschritte in der Forschung: Wo stehen wir bei Tierversuchen?
 
@@ -88,8 +91,6 @@ Zur Veranstaltungsseite
 
 </details>
 :::
-
-## Vergangene Aktivitäten
 
 ::: {.outreach-card}
 ### Videovorführung und Austausch
