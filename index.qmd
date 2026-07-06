@@ -13,7 +13,7 @@ Wir laden Sie ein, die Videos anzuschauen und mehr über Forschung mit Tieren zu
 ::: {.info-grid}
 ::: {.info-box}
 **Videos — Status**
-Die Videos werden diese Woche veröffentlicht und einige sind bereits verfügbar. Schauen Sie in die [Videos Seite](topics/index.qmd) und klicken Sie auf ein Thema, um die Videos anzuschauen.
+Die Videos werden diese Woche veröffentlicht und einige sind bereits verfügbar. Schauen Sie in [Videos](topics/index.qmd) und klicken Sie auf ein Thema, um die Videos anzuschauen.
 :::
 
 ::: {.info-box}
