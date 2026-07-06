@@ -13,8 +13,7 @@ Wir laden Sie ein, die Videos anzuschauen und mehr über Forschung mit Tieren zu
 ::: {.info-grid}
 ::: {.info-box}
 **Videos — Status**
-
-Coming soon — die Interviews und Videos werden demnächst veröffentlicht. Schauen Sie später wieder vorbei.
+Die Videos werden diese Woche veröffentlicht und einige sind bereits verfügbar. Schauen Sie in die **Themenübersicht** und klicken Sie auf ein Thema, um die Videos anzuschauen.
 :::
 
 ::: {.info-box}
