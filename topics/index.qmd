@@ -3,8 +3,6 @@ title: "Themen der Videoserie"
 ---
 Die Serie ist in fünf Themen gegliedert und erklärt zentrale Fragen aus der Bevölkerung zu Tierversuchen – verständlich und wissenschaftlich fundiert. Dabei wollten wir insbesondere jungen Forschenden eine Stimme geben und einen Einblick in ihre Perspektiven auf Forschung mit Tieren ermöglichen. Die Serie versteht sich als Beitrag zum Dialog und erhebt keinen Anspruch, alle Aspekte oder Positionen zum Thema abzudecken.
 
-
-
 [EN] You can turn on English subtitles in the YouTube player. :)
 
 ::: {.topic-list}
@@ -45,7 +43,7 @@ Wie gehen Forschende persönlich mit Tierversuchen um? <span class="live-badge">
 ::: {.topic-text}
 [Tierversuche – warum sie uns alle betreffen](04-ethical.qmd)
 
-Zu welchen Zwecken sind Tierversuche erlaubt und wie werden sie bewilligt? <span class="coming-soon-badge">Coming soon</span>
+Zu welchen Zwecken sind Tierversuche erlaubt und wie werden sie bewilligt? <span class="live-badge">Live</span>
 :::
 :::
 
