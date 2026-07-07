@@ -32,7 +32,7 @@ Wie werden Tiere gehalten, geschützt und überwacht? <span class="live-badge">L
 ::: {.topic-text}
 [Tierversuche – wie Forschende darüber denken](03-researchers-view.qmd)
 
-Wie gehen Forschende persönlich mit Tierversuchen um? <span class="coming-soon-badge">Coming soon</span>
+Wie gehen Forschende persönlich mit Tierversuchen um? <span class="live-badge">Live</span>
 :::
 :::
 

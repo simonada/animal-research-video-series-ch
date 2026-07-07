@@ -4,4 +4,10 @@ title: "Tierversuche – wie Forschende darüber denken"
 
 In diesem Video erfahren Sie, wie Tiere im Schweizer Gesetz berücksichtigt werden. Forschende berichten, wie sie persönlich mit Tierversuchen umgehen, wie sie das Wohlergehen der Tiere verbessern und warum Tierversuche weiterhin notwendig sind. 
 
-Status: <span class="coming-soon-badge">Coming soon</span>
+<iframe width="100%" height="400"
+  src="https://www.youtube.com/embed/bAk2m7ZXJwk"
+  title="YouTube video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
