@@ -1,9 +1,11 @@
 ---
 title: "Themen der Videoserie"
 ---
-Die Serie erklärt zentrale Fragen aus der Bevölkerung zu Tierversuchen – verständlich und wissenschaftlich fundiert. Dabei wollten wir insbesondere jungen Forschenden eine Stimme geben und einen Einblick in ihre Perspektiven auf Forschung mit Tieren ermöglichen. Die Serie versteht sich als Beitrag zum Dialog und erhebt keinen Anspruch, alle Aspekte oder Positionen zum Thema abzudecken.
+Die Serie ist in fünf zentrale Themen gegliedert und erklärt zentrale Fragen aus der Bevölkerung zu Tierversuchen – verständlich und wissenschaftlich fundiert. Dabei wollten wir insbesondere jungen Forschenden eine Stimme geben und einen Einblick in ihre Perspektiven auf Forschung mit Tieren ermöglichen. Die Serie versteht sich als Beitrag zum Dialog und erhebt keinen Anspruch, alle Aspekte oder Positionen zum Thema abzudecken.
 
-Die Serie ist in fünf zentrale Themen gegliedert. 
+
+
+[EN] You can turn on English subtitles in the YouTube player. :)
 
 ::: {.topic-list}
 
