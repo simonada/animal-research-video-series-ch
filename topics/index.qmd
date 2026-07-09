@@ -53,7 +53,7 @@ Zu welchen Zwecken sind Tierversuche erlaubt und wie werden sie bewilligt? <span
 ::: {.topic-text}
 [Tierversuche – und ihre Alternativen](05-alternatives.qmd)
 
-Welche Alternativen zu Tierversuchen gibt es? <span class="coming-soon-badge">Coming soon</span>
+Welche Alternativen zu Tierversuchen gibt es? <span class="live-badge">Live</span>
 :::
 :::
 
