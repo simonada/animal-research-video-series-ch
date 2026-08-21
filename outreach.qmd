@@ -43,6 +43,8 @@ https://scientifica.ch/en/ausstellungen/of-cells-organs-and-animals/
 </details>
 :::
 
+## Vergangene Aktivitäten
+
 ::: {.outreach-card}
 ### #BOARD26 – EARA
 
@@ -66,9 +68,6 @@ https://www.eara.eu/events/board26
 
 </details>
 :::
-
-
-## Vergangene Aktivitäten
 
 ::: {.outreach-card}
 ### Fortschritte in der Forschung: Wo stehen wir bei Tierversuchen?
