@@ -22,6 +22,8 @@ Zur Veranstaltungsseite
 </details>
 :::
 
+## Vergangene Aktivitäten
+
 ::: {.outreach-card}
 ### Scientifica 2026
 
@@ -42,8 +44,6 @@ https://scientifica.ch/en/ausstellungen/of-cells-organs-and-animals/
 </a>
 </details>
 :::
-
-## Vergangene Aktivitäten
 
 ::: {.outreach-card}
 ### #BOARD26 – EARA

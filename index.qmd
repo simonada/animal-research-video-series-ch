@@ -49,6 +49,18 @@ Haben Sie Fragen oder Anmerkungen? Schreiben Sie uns via E-Mail (siehe Über uns
 
 Weitere Informationen und die vollständige Videoliste finden Sie unter **Videos** und **Über uns**.
 
+## Einblicke aus Produktion und Events
+
+Entdecken Sie unsere Aktivitäten in Bildern — von hinter den Kulissen der Videoproduktion bis zu unseren Veranstaltungen:
+
+::: {.gallery-preview}
+![](images/gallery/scientifica_20263008.jpg)
+![](images/gallery/filming_Anastasia_Cakmak_Physiologisches Institut_UZH.jpg)
+![](images/gallery/filming_Institute_of_Laboratory_Animal_Science.jpg)
+:::
+
+[**Zur vollständigen Galerie →**](gallery.qmd){.gallery-link}
+
 ## Themenübersicht
 
 Die Videoserie ist in fünf Themen gegliedert — klicken Sie auf ein Thema für Details:

@@ -313,3 +313,102 @@ nav.navbar::before{
   border-radius: 8px;
   display: block;
 }
+
+/* Gallery grid styling */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gallery-item {
+  background: #ffffff;
+  border: 1px solid var(--berry-v1);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(21, 25, 28, 0.05);
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.gallery-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(255, 63, 132, 0.12);
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Ensure gallery item titles use only the strong element */
+.gallery-item p:first-of-type strong {
+  display: block;
+  color: var(--berry);
+  margin: 1rem 0 0.5rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.gallery-item h3 {
+  color: var(--berry);
+  margin: 1rem 1rem 0.5rem 1rem;
+  font-size: 1.1rem;
+}
+
+.gallery-item p {
+  color: var(--text);
+  margin: 0 1rem 1rem 1rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Gallery preview on home page */
+.gallery-preview {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem auto;
+  max-width: 900px;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.gallery-preview img {
+  width: 180px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(255, 63, 132, 0.12);
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.gallery-preview img:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(255, 63, 132, 0.2);
+}
+
+.gallery-link {
+  display: inline-block;
+  text-align: center;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  color: var(--berry) !important;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border: 1px solid var(--berry-v1);
+  border-radius: 6px;
+  background: var(--berry-v1);
+  transition: all 160ms ease;
+}
+
+.gallery-link:hover {
+  background: var(--berry);
+  color: white !important;
+  border-color: var(--berry);
+}
