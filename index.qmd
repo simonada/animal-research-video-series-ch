@@ -55,7 +55,7 @@ Entdecken Sie unsere Aktivitäten in Bildern — von hinter den Kulissen der Vid
 
 ::: {.gallery-preview}
 ![](images/gallery/scientifica_20263008.jpg)
-![](images/gallery/filming_Anastasia_Cakmak_Physiologisches Institut_UZH.jpg)
+![](images/gallery/filming_Anastasia_Cakmak_Physiologisches_Institut_UZH.jpg)
 ![](images/gallery/filming_Institute_of_Laboratory_Animal_Science.jpg)
 :::
 
