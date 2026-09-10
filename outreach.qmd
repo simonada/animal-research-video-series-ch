@@ -33,14 +33,14 @@ Zur Veranstaltungsseite
 <details>
 <summary>Mehr Details</summary>
 
-Wir werden mit dem Projekt *«Forschung mit Tieren in der Schweiz»* Teil der Ausstellung **«Of Cells, Organs and Animals»** an der Scientifica 2026 sein.
+Wir werden mit dem Projekt *«Forschung mit Tieren in der Schweiz»* Teil der Ausstellung **«Tierversuche im Wandel: Forschung mit Tieren und Alternativen»** an der Scientifica 2026 sein.
 
 Die Ausstellung zeigt, wie Forschung mit Tieren und moderne Alternativmethoden zusammenwirken und wie die 3R-Prinzipien (Replacement, Reduction, Refinement) in der Forschung umgesetzt werden. Besucherinnen und Besucher erhalten Einblicke in aktuelle Forschung und können mit Forschenden direkt ins Gespräch kommen. 
 
 Weitere Informationen:<br>
-<a href="https://scientifica.ch/en/ausstellungen/of-cells-organs-and-animals/
+<a href="https://scientifica.ch/ausstellungen/tierversuche-im-wandel-forschung-mit-tieren-und-alternativen/
 " target="_blank">
-https://scientifica.ch/en/ausstellungen/of-cells-organs-and-animals/
+https://scientifica.ch/ausstellungen/tierversuche-im-wandel-forschung-mit-tieren-und-alternativen/
 </a>
 </details>
 :::
