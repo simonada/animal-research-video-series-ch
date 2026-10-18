@@ -1,6 +1,16 @@
 ## Kommende Aktivitäten
 
 ::: {.outreach-card}
+### Interesse an einer Zusammenarbeit?
+
+Möchten Sie unsere Filme an Ihrer Veranstaltung zeigen oder gemeinsam eine Filmvorführung mit anschliessender Diskussion organisieren? Wir freuen uns auf den Austausch und auf Kooperationen. Gerne stellen wir unsere Filme vor oder gestalten mit Ihnen einen Screening- und Diskussionsanlass.
+:::
+
+
+
+## Vergangene Aktivitäten
+
+::: {.outreach-card}
 ### Wissen to go – Abends im Museum
 
 **Datum:** 15. Oktober 2026  
@@ -21,8 +31,6 @@ Zur Veranstaltungsseite
 
 </details>
 :::
-
-## Vergangene Aktivitäten
 
 ::: {.outreach-card}
 ### Scientifica 2026

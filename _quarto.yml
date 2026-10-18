@@ -21,6 +21,8 @@ website:
         href: about-project.qmd
       - text: "Outreach"
         href: outreach.qmd
+      - text: "Galerie"
+        href: gallery.qmd
     #right:
      # - text: "DE"
       #  href: index.qmd
