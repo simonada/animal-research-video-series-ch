@@ -18,6 +18,10 @@ The series covers topics such as:
 - Ethical considerations
 - Alternatives to animal experimentation
 
+## News
+
+We’re delighted to have received the **Swiss 3RCC Culture of Care Award 2026**. [Read the official announcement](https://swiss3rcc.org/awardees/culture-of-care-award-2026-simona-doneva-and-tosca-dalessi/).
+
 ## Website
 
 The website is built with [Quarto](https://quarto.org/) and is available in German and English.
@@ -68,7 +72,7 @@ This project was supported by:
 
 - Vice President Research Office, University of Zurich
 - Office for Animal Welfare and 3R, University of Zurich
-- Abteilung Kommunikation (University of Zurich)
+- Abteilung Kommunikation, University of Zurich
 - Life Science Zurich
 - Multimedia & E-Learning Services (MELS), University of Zurich
 

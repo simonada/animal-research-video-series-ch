@@ -412,3 +412,36 @@ nav.navbar::before{
   color: white !important;
   border-color: var(--berry);
 }
+
+.award-note {
+  max-width: 900px;
+  margin: 1rem auto 1.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #e9e6ed;
+  border-left: 3px solid var(--berry);
+  border-radius: 6px;
+  background: #fff;
+  color: #4b4650;
+  font-size: 0.95rem;
+}
+
+.award-note p {
+  margin: 0;
+}
+
+.award-note a {
+  color: var(--berry);
+}
+
+.news-label {
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  background: var(--berry-v1);
+  color: var(--violet);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
